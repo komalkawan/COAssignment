@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="85184" started-at="2020-06-08T15:15:51 IST" finished-at="2020-06-08T15:17:16 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="85184" started-at="2020-06-08T15:15:51 IST" finished-at="2020-06-08T15:17:16 IST">
+      <class name="com.crossover.e2e.GMailTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crossover.e2e.GMailTest@aecb35a]" name="setUp" is-config="true" duration-ms="7097" started-at="2020-06-08T15:15:51 IST" finished-at="2020-06-08T15:15:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testSendEmail()[pri:0, instance:com.crossover.e2e.GMailTest@aecb35a]" name="testSendEmail" duration-ms="76069" started-at="2020-06-08T15:15:58 IST" finished-at="2020-06-08T15:17:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSendEmail -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crossover.e2e.GMailTest@aecb35a]" name="tearDown" is-config="true" duration-ms="1886" started-at="2020-06-08T15:17:14 IST" finished-at="2020-06-08T15:17:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crossover.e2e.GMailTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
